@@ -6,7 +6,7 @@
 | ------------------------ | ---------- |
 | Widian Sasi Disertasiani | 5025211024 |
 | Katarina Inezita         | 5025211148 |
-| Rano                     | 5025211    |
+| Rano Naomi               | 5025211185    |
 
 # Praktikum 1
 
